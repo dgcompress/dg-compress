@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/dgcompress/dg-compress/releases/download/v1.7.1/DG.Compress.Installer.pkg",
-  "notes": "Corretto bug di layout nel ridimensionamento"
+  "version": "1.7.2",
+  "url": "https://github.com/dgcompress/dg-compress/releases/download/v1.7.2/DG.Compress.Installer.pkg",
+  "notes": "Corretto bug installer: ora installa sempre in Applicazioni"
 }
