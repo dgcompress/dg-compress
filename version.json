@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/dgcompress/dg-compress/releases/download/v1.9.0/DG.Compress.Installer.pkg",
-  "notes": "Aggiunto pulsante donazione"
+  "version": "1.9.1",
+  "url": "https://github.com/dgcompress/dg-compress/releases/download/v1.9.1/DG.Compress.Installer.pkg",
+  "notes": "Corretta riapertura da Dock"
 }
