@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/dgcompress/dg-compress/releases/download/v1.6.0/DG.Compress.dmg",
-  "notes": "Icona nella barra dei menu, sempre presente"
+  "version": "1.7.0",
+  "url": "https://github.com/dgcompress/dg-compress/releases/download/v1.7.0/DG.Compress.Installer.pkg",
+  "notes": "Drag & drop reale, nuovo installer .pkg guidato"
 }
